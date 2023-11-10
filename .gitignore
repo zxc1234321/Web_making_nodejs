@@ -6,3 +6,4 @@ package-lock.json
 main.html
 test.html
 /routes
+index.js
