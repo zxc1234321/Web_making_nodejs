@@ -1,0 +1,7 @@
+# 관리하지 않는 것들
+node_modules
+package-lock.json
+.vscode
+.env
+main.html
+test.html
